@@ -1,8 +1,9 @@
-**WEG* font is an experimental type system where legibility isn’t the focus.
+**ASISTEMATICA** 
+ART & CRAFT + TYPE + PATTERN for Risograph Printing
 
-This project studies how glyphs are constructed and how their ductus can be modified.
-I explored how far I can move the limits if I don’t worry about the legibility.
-In Weg, letters are built by a single line that connects them, along with words and paragraphs. When weight decreases, the legibility of the signs increases.
-This is the first stage. It’s a project in expansion.
+© Carolina Giovagnoli. March.2020.Sep.2021
 
-The set contains uppercase, lining figures and basic punctuation in three weights: Regular, Light and Thin. The current supported languages are Spanish, Guaraní and English. If you need any other language, please let me know. I would like to expand the character set.
+The perfect font pattern for risograph printing.
+
+Asistemática* Alphabet is typographic-pattern-project, it mixes the art and craft and type development.
+The letters first were cutted and printed in linoleum, then they were organized into a font family. The linoleum and the digital letters were used to set two different «spe-zines», one hand printed and the order risograph printed.
