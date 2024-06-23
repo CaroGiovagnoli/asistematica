@@ -124,6 +124,14 @@ background: linear-gradient(90deg, rgba(62,168,152,1) 49%, rgba(130,192,184,1) 5
     background: linear-gradient(90deg, #ffff73 30%, rgba(52, 69, 87, 1) 80%);
 }
 
+.verde5 {
+    display: block;
+    background: rgb(186, 195, 40);;
+    /*padding: 20px 0 20px 0; */
+    margin: 0;
+}
+
+
 .blanco {
     display: block;
     background: white;
